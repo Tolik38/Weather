@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  Weather
-//
-//  Created by Admin on 5/10/24.
-//
+
 
 import UIKit
 
